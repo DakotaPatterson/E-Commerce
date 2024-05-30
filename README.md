@@ -15,7 +15,7 @@
 ## Usage
 The best way to use this application is to go to the repo and clone the application on your personal computer and then run npm i and start to have access to all of the functionallity.
 
-https://drive.google.com/file/d/1hBTOpgEtRPk-RDlyLtvtIf7v_VB6Rf_n/view?usp=sharing
+https://drive.google.com/file/d/1hyUg56F3deH1G7wFoSO_lgtRXALiHFuS/view?usp=sharing
 
 ## Contribution
 
